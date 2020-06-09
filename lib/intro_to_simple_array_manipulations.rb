@@ -12,5 +12,5 @@ end
 
 def using_uniq(haircuts)
   @haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
-  newarray = haircuts.unique
+  new_array = haircuts.unique
 end
