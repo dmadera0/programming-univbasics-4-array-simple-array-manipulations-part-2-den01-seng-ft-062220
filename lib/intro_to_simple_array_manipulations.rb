@@ -10,4 +10,5 @@ def using_insert(list_of_programming_languages, anothoer_language)
   @newarray = @list_of_programming_languages.insert(4, @anothoer_language)
 end
 
-def using_flatten()
+def using_uniq(haircuts)
+  
