@@ -10,7 +10,7 @@ def using_insert(list_of_programming_languages, anothoer_language)
   @newarray = @list_of_programming_languages.insert(4, @anothoer_language)
 end
 
-def using_uniq(haircuts)
+def using_unique(haircuts)
   @haircuts = ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
   new_array = haircuts.unique
 end
