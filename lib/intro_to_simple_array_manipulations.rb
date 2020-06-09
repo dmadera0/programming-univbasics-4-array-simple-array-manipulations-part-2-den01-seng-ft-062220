@@ -9,3 +9,5 @@ def using_insert(list_of_programming_languages, anothoer_language)
   @anothoer_language = ["Python"]
   @newarray = @list_of_programming_languages.insert(4, @anothoer_language)
 end
+
+def using_flatten()
