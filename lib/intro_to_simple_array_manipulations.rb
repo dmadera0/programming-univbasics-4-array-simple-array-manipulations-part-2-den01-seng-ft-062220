@@ -15,4 +15,5 @@ def using_uniq(haircuts)
   new_array = haircuts.unique
 end
 
-def using_flatten()
+def using_flatten(instruments)
+  
