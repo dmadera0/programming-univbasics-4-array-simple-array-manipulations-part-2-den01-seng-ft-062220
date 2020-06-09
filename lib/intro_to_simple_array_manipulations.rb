@@ -7,4 +7,4 @@ end
 def using_insert(list_of_programming_languages, anothoer_language)
   @list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
   @anothoer_language = ["Python"]
-  @newarray = @list_of_programming_languages
+  @newarray = @list_of_programming_languages.insert(4)
